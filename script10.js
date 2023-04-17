@@ -93,7 +93,6 @@ console.log(fruits3)
 console.log(fruits4)
 
 let info = ["chinmay","deshpande",7709192441]
-
 let q10 = info.join('-')
 let q11 = info.join(' ')
 let q12 = info.join('@')
@@ -102,6 +101,16 @@ console.log(typeof q10)
 console.log(q11)
 console.log(q12)
 
+// push()
+// unshift()
+// pop()
+// shift()
+// includes()
+// indexOf()
+// reverse()
+// join()
+// at()
+// concat()
 
 
 
