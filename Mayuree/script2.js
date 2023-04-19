@@ -85,15 +85,9 @@ console.log(6 == 6 || 7 != 7)
 console.log(6 != 6 || 7 != 7)
 
 
-
-
-
-
 // NOT - !
-
 //false  - true
 //true - false 
-
 console.log(!7 == 7)
 console.log(! 8 != 8)
 
