@@ -82,8 +82,6 @@ while (g >= 1) {
 }
 
 // continue with while 
-
-
 let k = 1
 while (k <= 5) {
     if (k == 3) {
@@ -92,6 +90,8 @@ while (k <= 5) {
     }
     console.log(k) //1 // 2 // 4 // 5
     k = k + 1 // 2 // 3 // 5 // 6
+    //k++
+    //k+=1
 }
 
 

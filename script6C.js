@@ -117,23 +117,22 @@ let city = "FSA"
 //         console.log("Incorrect city")
 // }
 
-
-switch(city){
-    case "pune":
-    case "mumbai":
-        console.log("MH")
-        break
-    case "indore":
-    case "bhopal":
-        console.log("MP")
-        break
-    case "jaipur":
-    case "udaipur":
-        console.log("RJ")
-        break
-    default:
-        console.log("Incorrect city")
-}
+// switch(city){
+//     case "pune":
+//     case "mumbai":
+//         console.log("MH")
+//         break
+//     case "indore":
+//     case "bhopal":
+//         console.log("MP")
+//         break
+//     case "jaipur":
+//     case "udaipur":
+//         console.log("RJ")
+//         break
+//     default:
+//         console.log("Incorrect city")
+// }
 
 
 

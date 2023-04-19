@@ -94,6 +94,8 @@ console.log(q2)
 console.log(vegetables)
 
 
+// length , push(), unshift()
+
 
 
 // pop()

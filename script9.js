@@ -86,6 +86,13 @@ console.log(vegetables)
 
 
 
+// array 
+// loop 
+// array - object 
+// propety - length 
+// method push() , unshift()
+
+
 
 
 

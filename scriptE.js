@@ -32,11 +32,8 @@ console.log(a*b)
 console.log(a/b)
 console.log(a%b)
 
-
 // function
-
-
-function Calculator(x,y){
+function chinmay(x,y){
     console.log(x+y)
     console.log(x-y)
     console.log(x*y)
@@ -46,6 +43,7 @@ function Calculator(x,y){
 
 Calculator(12,6)
 Calculator(18,9)
+
 
 
 

@@ -122,6 +122,12 @@ let q15  = numbers.reverse()
 console.log(q15)
 
 
+// Java / Python -- SQL --- Seleniun , Cypress
+
+// Friday 
+// Sat
+// Sun 
+// Mon
 
 
 
