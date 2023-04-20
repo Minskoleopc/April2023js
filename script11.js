@@ -68,6 +68,17 @@ for(let i = 0 ; i < cities.length ; i++){
     console.log("welcome "+ cities[i])
 }
 
+function addition(x,y){
+    console.log(x+y)
+    return x+y
+}
+let x = addition(23,4)
+console.log(x)
+
+
+
+
+
 
 
 
