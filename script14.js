@@ -145,7 +145,6 @@ let qq = numbers.flat()
 console.log(qq)
 
 // fill()
-
 let markss = [11,22,33,44,55,66,77,88,99]
 let q22 = markss.fill('a',1,5)
 console.log(q22)
