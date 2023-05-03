@@ -70,7 +70,6 @@ r2.forEach(function(el){
 students.forEach(function(el){
     el.country = "india"
 })
-
 console.log(students)
 
 
