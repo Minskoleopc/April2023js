@@ -69,7 +69,6 @@ console.log(setC)
 console.log(setC.size)
 
 // add element to set 
-
 setC.add(11)
 setC.add(22)
 setC.add(33)
@@ -79,7 +78,6 @@ setC.add(55)
 console.log(setC)
 
 // has 
-
 let q1 = setC.has(444)
 console.log(q1)
 
@@ -99,12 +97,11 @@ setC.forEach(function(v1){
     console.log(v1)
 })
 
-
-
 // setC.keys()
 // setC.values()
 // setC.entries()
 
+let a = [44,55,66,-77,77,88,-99]
 
 
 
