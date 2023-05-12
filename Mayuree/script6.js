@@ -55,7 +55,7 @@ let city = "nagpur"
 // }
     
 
-//Falsy ==>  0 , null, NaN, undefined , '', 5 > 6 , false 
+// Falsy ==>  0 , null, NaN, undefined , '', 5 > 6 , false 
 // Truthy value ==> true , 123,-123,'**',[], {} ,true 8 === 8
 
 if(8===8){

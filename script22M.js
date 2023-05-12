@@ -58,7 +58,6 @@ students.forEach(function(el){
     console.log(el.fullName+":"+el.skills.length)
 })
 
-
 let total = 0 
 students.forEach(function(el){
     total = total + el.age

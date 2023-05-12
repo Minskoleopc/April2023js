@@ -3,7 +3,6 @@
 // program 1
 // print 1 to 5
 
-
 console.log(1)
 console.log(2)
 console.log(3)
@@ -38,14 +37,12 @@ for(let i = 5 ; i >= 1 ; i--){  // 4 // 3 // 2 // 1 // 0
     console.log(i) // 5  // 4 // 3 // 2 // 1
 }
 
-
 // table of 2 
 for(let i = 2 ; i <= 20 ; i = i + 2){ // 4 // 6 // 8 // 10 ----// 22
     console.log(i) // 2 // 4 // 6 // 8 // 10 ------- 20
 }
 
 //table of 3 in reverse
-
 for(let i = 30 ; i >= 3 ; i = i - 3){
     console.log(i)
 }

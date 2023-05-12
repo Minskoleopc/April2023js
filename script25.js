@@ -86,10 +86,7 @@ let chinmay = {
     fullName:"chinmay deshpande",
     age:33,
     skills:["python","javascript"]
-
-
 }
-
 let {fullName:k1,age:k2,skills:[k3,k4]} = chinmay
 console.log(k3)
 console.log(k4)

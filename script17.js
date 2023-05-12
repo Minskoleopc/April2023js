@@ -89,7 +89,6 @@ for(let key in students){
     console.log(key,students[key])
 }
 
-
 for(let prop of Object.keys(students)){
     console.log(prop)
 }

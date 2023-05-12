@@ -3,7 +3,6 @@
 // }
 
 // print hello 3 times
-
 for(let i = 0 ; i < 3 ; i++){ //1 // 2 // 3
     //console.log(i) // 0 , 1 , 2
     console.log("hello")

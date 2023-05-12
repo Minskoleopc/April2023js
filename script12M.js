@@ -78,7 +78,6 @@ for(let i = 0 ; i < cities.length ; i++){
     console.log("welcome "+cities[i])
 }
 
-
 cities.forEach(function(el,index,arr){
     console.log("welcome "+ el)
 })
