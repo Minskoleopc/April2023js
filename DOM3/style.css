@@ -1,0 +1,20 @@
+h1 {
+    color:blue;
+}
+
+.green {
+    color:green;
+    height:250px;
+    width:250px;
+    background-color:yellow;
+}
+.red {
+    color:red;
+    height:250px;
+    width:250px;
+    background-color:yellow;
+}
+
+#two {
+    color:purple
+} 
