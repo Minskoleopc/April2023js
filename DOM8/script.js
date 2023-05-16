@@ -9,7 +9,6 @@ console.log(inputT)
 console.log(buttonB)
 console.log(headOne)
 
-
 buttonB.addEventListener('click',function(){
     let cl = inputT.value
     headOne.style.color = cl
