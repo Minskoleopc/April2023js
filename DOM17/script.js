@@ -42,15 +42,13 @@ ulList.addEventListener('click',function(e){
     // console.log(e.target)
     // console.log(e.target.tagName)
     // console.log(e.target.className)
-
+    
     if(e.target.tagName === "BUTTON"){
-
         if(e.target.className === "remove"){
             let li = e.target.parentElement
             let ul = li.parentElement
             ul.removeChild(li)
         }
-
         else if(e.target.className = "up"){
             let li = e.target.parentElement
             let ul = li.parentElement
