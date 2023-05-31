@@ -58,7 +58,6 @@ amolD.firstName = 'amol'
 amolD.lastName = 'rao'
 amolD.age = 34
 amolD.rollNo = 45
-
 console.log(amolD)
 
 
