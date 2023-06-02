@@ -128,8 +128,18 @@ console.log(bmw1 instanceof Vehicle)
 console.log(audi1.hasOwnProperty('country'))
 console.log(audi1.hasOwnProperty('color'))
 
-
 // ES6 class 
+
+
+
+
+
+
+
+
+
+
+
 
 
 
