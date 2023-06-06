@@ -149,6 +149,8 @@ console.log(amol4.firstN)
 console.log(amol4.lastN)
 console.log(amol4.rolln)
 console.log(amol4.ag)
+amol4.firstN = "amolram"
+console.log(amol4)
 
 
 
