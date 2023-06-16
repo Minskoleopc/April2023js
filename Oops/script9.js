@@ -77,6 +77,103 @@ console.log(q5)
 // function as a parameter and function as a return type
 
 
+// function declaration 
+function addA(x,y){
+    return x + y
+}
+let j1 = addA(23,4)
+console.log(j1)
+// function expression 
+
+let addB  = function(x,y){
+    return x+y
+}
+let j2 = addB(3,4)
+console.log(j2)
+
+// arrow function
+
+// let addC  = (x,y)=>{
+//     return x+y
+// }
+// let j3 = addC(3,4)
+// console.log(j3)
+
+// let addC  = (x,y)=> x+y
+// let j3 = addC(3,4)
+// console.log(j3)
+
+
+let subA = function(x,y){
+    return x - y
+}
+
+
+
+function Subtraction(fn,x,y){
+
+    // let fn = function(x,y){
+    //     return x - y
+    // }
+    // let x = 22
+    // let y = 4
+
+
+    let c = fn(x,y) // 18
+    return c // 18
+}
+let j3 = Subtraction(subA,22,4)
+console.log(j3)
+
+let addN = function(x,y){
+    return x + y
+}
+function AdditionN(fn,x,y){
+    // let fn = function(x,y){
+    //     return x + y
+    // }
+    // let x = 12
+    // let = 4
+    let c2 = fn(x,y)
+    return c2
+}
+
+let j4 = AdditionN(addN,12,4)
+console.log(j4)
+
+
+// Closures
+function additonC(x,y){
+    console.log(x+y) // 27
+    return x + y
+    console.log("hello")
+}
+
+let j5 = additonC(23,4)
+console.log(j5) // 27
+
+// function returning another function
+function  additonD(){
+    let x = 100
+    let y  = 50
+    return function(){
+        console.log(x+y)
+    }
+}
+let j6 = additonD()
+
+// let j6 = function(){
+//     console.log(x+y)
+// }
+console.log(j6)
+j6()
+
+
+
+
+
+
+
 
 
 
