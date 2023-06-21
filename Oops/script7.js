@@ -75,12 +75,10 @@ class Teacher  extends Student {
     }
 }
 let amolT2 = new Teacher("amolT2","raoT2",23,1000)
-
 console.log(amolT2.firstName)
 console.log(amolT2.lastName)
 console.log(amolT2.adharNo)
 console.log(amolT2.salary)
-
 amolT2.displaySalary()
 amolT2.displayName()
 
